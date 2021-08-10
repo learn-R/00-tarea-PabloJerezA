@@ -74,13 +74,15 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 1. ¿Cuál es tu nombre?
 
 R:
+R:Pablo Jerez   
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R: r es el UN LENGUEJE de programacion, mientras que rstudio es el progrma estadistico
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
